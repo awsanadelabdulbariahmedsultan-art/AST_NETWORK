@@ -1,0 +1,56 @@
+# 🛡️ SECURITY & KEYS PROTECTION
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+*.env
+
+# 📦 DEPENDENCIES & BUILD OUTPUTS
+node_modules/
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+typechain-types/
+
+# 🖥️ SYSTEM & IDE FILES
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+
+---
+
+# الحماية القصوى للمفاتيح السرية والبيئات
+.env
+.env.local
+.env.production
+.env.development
+
+# ملفات كاش وبيئة Hardhat و Node
+node_modules/
+artifacts/
+cache/
+coverage/
+coverage.json
+typechain/
+typechain-types/
+
+# ملفات النظام المؤقتة
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea/
+.vscode/
+
