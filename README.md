@@ -58,6 +58,3 @@ The network hosts **45,000 Sovereign Artistic Certifications (ASA)** coded under
 
 ---
 🔒 *All architectural, institutional, and technical banking rights are exclusively reserved.*
-EOF
-
-echo "📝 Done! The official global README.md file with the centered logo has been created successfully."
