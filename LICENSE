@@ -1,6 +1,50 @@
+cat << 'EOF' > LICENSE
+SOFTWARE RIGHTS AND INTELLECTUAL PROPERTY OWNER: ENG. AWSAN ADEL ABDULBARI AHMED SULTAN
+OFFICIALLY REGISTERED INTELLECTUAL PROPERTY PROTECTION ID: 01010305468 / YEMEN 
+--------------------------------------------------------------------------------
+
+All software, architectural, technical, and engineering rights concerning the AST NETWORK 
+and its associated smart contracts are fully and exclusively reserved to Eng. Awsan Adel 
+Abdulbari Ahmed Sultan for the year 2026.
+
+Under international software copyright and intellectual property laws, it is strictly prohibited to:
+1. Copy, modify, reverse-engineer, or redistribute the source code or the underlying infrastructure without prior explicit written permission.
+2. Utilize the codebase or any portion of this ecosystem for commercial purposes outside the official sovereign framework of AST.
+
+Any unauthorized use, infringement, or violation of these terms will result in immediate 
+international legal prosecution and automatic cryptographic revocation of the deployed contract privileges.
+EOF
+
+echo "🔒 Done! The official English LICENSE file has been created successfully."
+
+
+---
+
+صاحب الحقوق البرمجية والهندسية: المهندس أوسان عادل عبد الباري أحمد سلطان
+حقوق الملكية الفكرية والبرمجية مسجلة رسميًا - برقم قيد الحماية: 01010305468 / اليمن
+--------------------------------------------------------------------------------
+
+جميع الحقوق البرمجية، الفنية، والهندسية الخاصة بشبكة AST NETWORK وعقودها التابعة 
+محفوظة بالكامل وبشكل حصري للمهندس أوسان عادل عبد الباري أحمد سلطان لعام 2026.
+
+يُمنع منعاً باتاً وبموجب القانون الدولي والبرمجي:
+1. نسخ، أو تعديل، أو إعادة توزيع الكود المصدري أو البنية التحتية دون إذن خطي مسبق.
+2. استخدام الكود لأغراض تجارية خارج المنظومة السيادية الرسمية لـ AST.
+
+أي انتهاك لهذه الشروط يعرض الفاعل للملاحقة القانونية وإبطال العقد برمجياً.
+
+
+---
+
+
+
 SOFTWARE RIGHTS AND INTELLECTUAL PROPERTY OWNER: ENG. AWSAN ADEL ABDULBARI AMED SULTAN
 OFFICIALLY REGISTERED INTELLECTUAL PROPERTY PROTECTION ID: 01010305468
 --------------------------------------------------------------------------------
 All software, structural, and institutional banking rights concerning the AST NETWORK 
 ecosystem are fully and exclusively reserved to Eng. Awsan Adel Ahmed Sultan for the year 2026.
-Global Wallet Interoperability Integration Standard (MetaMask, Trust, TokenPocket, Banking Gateways).
+Global Wallet Interoperability Integration Standard (MetaMask, Trust, TokenPocket .... etc, Banking Gateways).
+
+
+---
+
