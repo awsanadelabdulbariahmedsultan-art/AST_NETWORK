@@ -1,8 +1,7 @@
 # 🌐 شبكة AST NETWORK (النظام المالي السيادي العابر لمحافظ البنوك والعالم)
 <p align="center">
-  <img src="./AST NETWORK  LOGO.png" alt="AST NETWORK  LOGO" width="1254" height="1254"/>
+  <img src="./ASTـNETWORKـLOGO.png" alt="ASTـNETWORKـLOGO" width="1254" height="1254"/>
 </p>
-
 
 ### المعيار النقدى والبنكي العالمي - لعام 2026
 **حقوق الملكية الفكرية والبرمجية مسجلة رسميًا - برقم قيد الحماية القانونية: 01010305468**
@@ -34,7 +33,6 @@ The network hosts **45,000 Sovereign Artistic Certifications (ASA)** coded under
 * **Smart Contract Language:** Solidity 0.8.28
 * **Development Framework:** Hardhat 3 / Node.js
 * **Founder & General Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
-
 
 
 ---
