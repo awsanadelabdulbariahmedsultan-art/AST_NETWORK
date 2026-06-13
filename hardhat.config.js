@@ -9,9 +9,9 @@ const config = {
     settings: { optimizer: { enabled: true, runs: 200 } }
   },
   networks: {
-    baseSepolia: {
-      url: "https://base.org",
-      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []
+    sepolia: {
+      url: "https://alchemy.com",
+      accounts: ["55ab108fc2e9fef5c8757d764a1ea9f5201357c4f76652cbf36fa8103d7de161"]
     }
   }
 };
