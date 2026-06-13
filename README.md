@@ -1,5 +1,4 @@
 # 🌐 شبكة AST NETWORK (النظام المالي السيادي العابر لمحافظ البنوك والعالم)
-
 <p align="center">
   <img src="./AST NETWORK  LOGO.png" alt="AST NETWORK  LOGO" width="1254" height="1254"/>
 </p>
