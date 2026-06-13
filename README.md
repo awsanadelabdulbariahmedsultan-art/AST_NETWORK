@@ -1,6 +1,6 @@
 # 🌐 شبكة AST NETWORK (النظام المالي السيادي العابر لمحافظ البنوك والعالم)
 <p align="center">
-  <img src="./astnetworklogo.png" alt="astnetworklogo" width="1254" height="1254"/>
+  <img src="./AST_NETWORK_LOGO.pdf" alt="AST_NETWORK_LOGO" width="1254" height="1254"/>
 </p>
 ### المعيار النقدى والبنكي العالمي - لعام 2026
 **حقوق الملكية الفكرية والبرمجية مسجلة رسميًا - برقم قيد الحماية القانونية: 01010305468**
