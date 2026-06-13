@@ -27,6 +27,14 @@
 ### 🎨 صكوك الفن الرقمي والملكية الفكرية (ASA Art)
 تستضيف الشبكة **45,000 صك فني سيادي فريد (ASA)** مبرمجة ومحمية وفقاً لمعيار الحقوق التلقائية (EIP-2981)، مما يضمن تدفقاً مالياً دائماً وفورياً بنسبة **10%** كعوائد ملكية فكرية تُضخ مباشرة إلى محفظة المهندس أوسان المطور السيادية مع كل عملية تداول عابرة للشبكات.
 
+
+
+
+---
+### 🛠️ البيئة الهندسية والبرمجية الأساسية
+* **لغة العقود الذكية:** Solidity 0.8.28
+* **بيئة وإطار التطوير:** Hardhat 3 / Node.js
+* **المؤسس والمهندس العام للمشروع:** المهندس أوسان عادل عبد الباري أحمد سلطان
 ---
 
 ## 🌐 AST NETWORK (Sovereign Gold-Backed Blockchain Infrastructure)
@@ -58,3 +66,4 @@ The network hosts **45,000 Sovereign Artistic Certifications (ASA)** coded under
 
 ---
 🔒 *All architectural, institutional, and technical banking rights are exclusively reserved.*
+
