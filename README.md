@@ -2,9 +2,7 @@ cat << 'EOF' > README.md
 # 🌐 AST NETWORK 
 
 <p align="center">
-  <a href="./AST_NETWORK_LOGO.pdf" target="_blank">
-    <img src="https://shields.io" alt="AST NETWORK LOGO PDF" />
-  </a>
+  <img src="./astnetworklogo.jpg" alt="AST NETWORK LOGO" width="500"/>
 </p>
 
 ---
@@ -62,4 +60,4 @@ The network hosts **45,000 Sovereign Artistic Certifications (ASA)** coded under
 🔒 *All architectural, institutional, and technical banking rights are exclusively reserved.*
 EOF
 
-echo "📝 Done! The official global README.md file has been created successfully."
+echo "📝 Done! The official global README.md file with the centered logo has been created successfully."
