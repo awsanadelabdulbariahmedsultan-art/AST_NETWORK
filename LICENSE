@@ -1,11 +1,17 @@
 cat << 'EOF' > LICENSE
+================================================================================
 SOFTWARE RIGHTS AND INTELLECTUAL PROPERTY OWNER: ENG. AWSAN ADEL ABDULBARI AHMED SULTAN
-OFFICIALLY REGISTERED INTELLECTUAL PROPERTY PROTECTION ID: 01010305468 / YEMEN 
---------------------------------------------------------------------------------
+OFFICIALLY REGISTERED INTELLECTUAL PROPERTY PROTECTION ID: 01010305468 / YEMEN
+================================================================================
 
-All software, architectural, technical, and engineering rights concerning the AST NETWORK 
-and its associated smart contracts are fully and exclusively reserved to Eng. Awsan Adel 
-Abdulbari Ahmed Sultan for the year 2026.
+[ ENGLISH VERSION ]
+
+All software, architectural, structural, technical, engineering, and institutional 
+banking rights concerning the AST NETWORK ecosystem and its associated smart contracts 
+are fully and exclusively reserved to Eng. Awsan Adel Abdulbari Ahmed Sultan for the year 2026.
+
+Global Wallet Interoperability Integration Standard:
+- MetaMask, Trust Wallet, TokenPocket, and compatible Web3/Banking Gateways.
 
 Under international software copyright and intellectual property laws, it is strictly prohibited to:
 1. Copy, modify, reverse-engineer, or redistribute the source code or the underlying infrastructure without prior explicit written permission.
@@ -13,26 +19,30 @@ Under international software copyright and intellectual property laws, it is str
 
 Any unauthorized use, infringement, or violation of these terms will result in immediate 
 international legal prosecution and automatic cryptographic revocation of the deployed contract privileges.
-EOF
-
-echo "🔒 Done! The official English LICENSE file has been created successfully."
 
 
----
-
-صاحب الحقوق البرمجية والهندسية: المهندس أوسان عادل عبد الباري أحمد سلطان
-حقوق الملكية الفكرية والبرمجية مسجلة رسميًا - برقم قيد الحماية: 01010305468 / اليمن
 --------------------------------------------------------------------------------
 
-جميع الحقوق البرمجية، الفنية، والهندسية الخاصة بشبكة AST NETWORK وعقودها التابعة 
-محفوظة بالكامل وبشكل حصري للمهندس أوسان عادل عبد الباري أحمد سلطان لعام 2026.
 
-يُمنع منعاً باتاً وبموجب القانون الدولي والبرمجي:
-1. نسخ، أو تعديل، أو إعادة توزيع الكود المصدري أو البنية التحتية دون إذن خطي مسبق.
-2. استخدام الكود لأغراض تجارية خارج المنظومة السيادية الرسمية لـ AST.
+[ النسخة العربية ]
 
-أي انتهاك لهذه الشروط يعرض الفاعل للملاحقة القانونية وإبطال العقد برمجياً.
+صاحب الحقوق البرمجية والهندسية والملكية الفكرية: المهندس أوسان عادل عبد الباري أحمد سلطان
+حقوق الملكية الفكرية والبرمجية مسجلة رسميًا - برقم قيد الحماية: 01010305468 / اليمن
 
+جميع الحقوق البرمجية، الفنية، الهندسية، والمؤسسية المصرفية الخاصة بمنظومة وشبكة AST NETWORK 
+وعقودها الذكية التابعة محفوظة بالكامل وبشكل حصري للمهندس أوسان عادل عبد الباري أحمد سلطان لعام 2026.
+
+معيار تكامل 상호운용성 للمحافظ العالمية:
+- محفظة MetaMask، و Trust Wallet، و TokenPocket، وبوابات الربط البنكي المتوافقة.
+
+يُمنع منعاً باتاً وبموجب القانون الدولي وتشريعات حماية الملكية الفكرية:
+1. نسخ، أو تعديل، أو هندسة عكسية، أو إعادة توزيع الكود المصدري أو البنية التحتية دون إذن خطي مسبق.
+2. استخدام الكود أو أي جزء من هذه المنظومة لأغراض تجارية خارج المنظومة السيادية الرسمية لـ AST.
+
+أي انتهاك أو استخدام غير مصرح به لهذه الشروط يعرض الفاعل للملاحقة القانونية الدولية الفورية وإبطال العقد برمجياً وتشفيرياً.
+EOF
+
+echo "🔒 Done! The official English & Arabic LICENSE file has been created successfully."
 
 
 
